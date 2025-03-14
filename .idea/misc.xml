@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.auth" />
     <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.order" />
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.product" />
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.server" />
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.team" />
+    <file type="web" url="file://$PROJECT_DIR$/com.teamMakeApp.user" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
